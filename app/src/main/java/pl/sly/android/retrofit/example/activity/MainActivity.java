@@ -19,7 +19,7 @@ import timber.log.Timber;
 public class MainActivity extends BaseActivity {
 
     private static final double LATITUDE = 51.75924850;
-    private static final double LONGITUDE = 19.45598330;
+    private static final double LONGITUDE = 19.45598330
 
     @BindView(R.id.textView)
     TextView resultTextView;
